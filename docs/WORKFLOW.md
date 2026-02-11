@@ -1,6 +1,6 @@
-# RENYOR - Application Workflow
+# RANYOR - Application Workflow
 
-This document outlines the end-to-end workflows of the RENYOR rental marketplace application, covering user lifecycle, item management, and the secure rental process.
+This document outlines the end-to-end workflows of the RANYOR rental marketplace application, covering user lifecycle, item management, and the secure rental process.
 
 ---
 
