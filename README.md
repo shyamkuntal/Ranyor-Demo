@@ -154,13 +154,11 @@ A multi-step handover and return process:
 
 ---
 
-## 🎤 Interview Highlights
+## Demo Account
 
-1. **"Scaleable Architecture"** → Clean separation of concerns with a Go-powered REST/WS backend.
-2. **"Real-world Security"** → Implemented a real-world rental handover flow with OTPs and ID verification.
-3. **"Modern UI"** → Used Glassmorphism and premium gradients for a top-tier user experience.
-4. **"Geospatial Search"** → Leveraged MongoDB's `2dsphere` index for efficient location-based item discovery.
-5. **"Complex State"** → Managed intricate availability logic across calendar and database layers.
-
+```javascript
+- User:          test@test.com
+- Password:      @@Abc123
+```
 ---
 *Developed by Shyam Kuntal*
