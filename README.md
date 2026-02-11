@@ -134,26 +134,6 @@ A multi-step handover and return process:
 
 ---
 
-## 📁 Project Structure
-
-```
-.
-├── backend/                 # Go Source Code
-│   ├── cmd/main.go          # Application Entry
-│   ├── models.go            # BSON/JSON Data Models
-│   ├── router.go            # API Endpoint Definitions
-│   └── *_handler.go         # Domain Logic (Auth, Items, etc.)
-└── rentkar/                 # React Native App
-    ├── src/
-    │   ├── components/      # UI Blocks (Glass UI, Security, etc.)
-    │   ├── context/         # Auth, Location, Notifications
-    │   ├── screens/         # Feature-grouped UI Screens
-    │   └── services/        # Backend API Integration
-    └── App.jsx              # App Root
-```
-
----
-
 ## Demo Account
 
 ```javascript
